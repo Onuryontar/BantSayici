@@ -11,3 +11,9 @@
 > - 1N5819 1A 40V Schottky Diyot - 2 adet
 > - 10k Direnç 1/4W - 3 adet
 > - MT3608 2A DC-DC Step Up Modül - 1 adet
+
+
+
+![KariaKutu_2022-Aug-12_09-51-56PM-000_CustomizedView27303433160](https://user-images.githubusercontent.com/82800507/184454031-f1b2a47f-d83d-4bab-b617-62ef6f0c9478.png)
+![photo_2022-08-13_00-57-38](https://user-images.githubusercontent.com/82800507/184454038-fd6f2d1f-0c46-4d41-81b0-7844ee2b61cc.jpg)
+![Untitled Sketch_bb](https://user-images.githubusercontent.com/82800507/184454041-b97646c1-af27-43ab-8476-1432dd29a10e.png)
